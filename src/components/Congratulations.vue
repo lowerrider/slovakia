@@ -309,6 +309,11 @@ vue-confetti {
     padding: 20px 0;
   }
 
+  .button-bank-img {
+    height: 20px;
+    object-fit: none;
+  }
+
   .bank-left,
   .bank-right {
     width: 100%;
