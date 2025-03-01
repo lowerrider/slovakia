@@ -222,8 +222,9 @@ export default {
   }
 
   .text-container-first-title {
-    font-size: 2.5rem;
-    line-height: 3rem;
+    font-size: 26px;
+    line-height: 24px;
+    font-weight: 700;
   }
 
   .text-container-first-subTitle {
@@ -234,6 +235,10 @@ export default {
   .text-container-first-right-image {
     width: 80%;
     margin-top: 1rem;
+  }
+
+  h3 {
+    font-size: 26px;
   }
 
   .subDiv {

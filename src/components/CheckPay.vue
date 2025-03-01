@@ -304,7 +304,8 @@ export default {
   }
 
   .icon-button-text {
-    font-size: 1rem;
+    font-size: 12px;
+    text-align: center;
   }
 
   .second_container {

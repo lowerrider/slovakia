@@ -204,8 +204,8 @@ function scrollToTop() {
   }
 
   .header-text {
-    font-size: 12px;
-    text-align: center;
+    font-size: 14px;
+    text-align: start;
   }
 
   .header-icon-container {

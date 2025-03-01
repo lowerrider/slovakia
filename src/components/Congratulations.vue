@@ -300,6 +300,10 @@ vue-confetti {
     font-size: 3rem;
   }
 
+  h3 {
+    font-size: 26px;
+  }
+
   .bank {
     flex-direction: column;
     padding: 20px 0;
@@ -320,12 +324,14 @@ vue-confetti {
   .end-container-left,
   .end-container-right {
     width: 100%;
+    margin-top: 20px;
     text-align: start;
   }
 
   .bank-sub {
     flex-direction: column;
     align-items: center;
+    gap: 0;
   }
 
   .bank-sub-left,
@@ -346,7 +352,7 @@ vue-confetti {
   }
 
   .sub-button-info {
-    font-size: 16px;
+    font-size: 12px;
   }
 
   .end-container-left h3,
